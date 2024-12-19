@@ -1,16 +1,23 @@
-# The Zeex.me Website
+## The Zeex.me Website
 
-With cryptocurrencies widely accepted in many organizations, Zeex provides a smooth and user-friendly platform that gives users seamless access to their favorite stores, both online and offline.
+<img align="right" src="/1-homepage.png" alt="zeex-website" width="350">
 
-This repository showcases the Zeex website with screenshots.
+Zeex offers a streamlined blockchain-based platform, enabling users to seamlessly spend their cryptocurrencies at their favorite online and offline stores.
 
-🔗 **Live Website**: https://zeex.me
+**This repository showcases the Zeex.me website with screenshots.**
+
+**Live Website:** 
+<br>https://zeex.me
 
 ---
 
-## Technologies
+**Technologies:**
 
-- JavaScript  
-- HTML  
-- CSS  
-- WordPress  
+- **JavaScript**
+- **CSS3**
+- **HTML5**
+- **WordPress**
+
+---
+
+**Author**: Tal Argaman
