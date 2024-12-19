@@ -1,4 +1,5 @@
 ## The Zeex.me Website
+**© All rights reserved to Zeex.**
 
 <img align="right" src="/1-homepage.png" alt="zeex-website" width="350">
 
