@@ -14,7 +14,7 @@ Zeex offers a streamlined blockchain-based platform, enabling users to seamlessl
 
 **Technologies:**
 
-- **JavaScript**
+- **JavaScript ES6**
 - **CSS3**
 - **HTML5**
 - **WordPress**
