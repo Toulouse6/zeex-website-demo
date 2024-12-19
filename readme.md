@@ -19,6 +19,3 @@ Zeex offers a streamlined blockchain-based platform, enabling users to seamlessl
 - **HTML5**
 - **WordPress**
 
----
-
-**Author**: Tal Argaman
